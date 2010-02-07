@@ -1,5 +1,6 @@
 # Setup
 The following software is required
+
 * Ruby 1.8.6 or 1.8.7
 * RubyGems
 * Git (I recommend gitbash on Windows)
