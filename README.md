@@ -6,7 +6,7 @@ The following software is required
 * Git (I recommend gitbash on Windows)
 * Rhodes
   * Install latest Rhodes gem:
-  * http://dev.rhomobile.com/brian/rhodes-1.4.0.gem
+  * [http://dev.rhomobile.com/brian/rhodes-1.4.0.gem](http://dev.rhomobile.com/brian/rhodes-1.4.0.gem)
   * Download that and do 'gem install rhodes-1.4.0.gem'  (on the mac you want to: sudo gem install ...)
 * Rhosync
   * You won't need the Rhodes source, but I recommend getting rhosync from source:
